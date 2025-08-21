@@ -1,0 +1,66 @@
+{
+  "integratedappsupplier2@gmail.com": [
+    {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["UA"],"salesLine":["MCC"],"supplierNumber":["99903"]}]},
+    {"QLINK_SUPPLIER":[{"country":["UA"],"salesLine":["MCC"],"supplierNumber":["99903"]}]},
+    {"NSP_TEST_APP_VIEW":[]},
+    {"LDS_DE_SUPPLIER":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["99903"]}]},
+    {"NSP_SUPPLIER_ADMIN":[{"country":["UA"],"salesLine":["MCC"],"supplierNumber":["99903"]}]},
+    {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[
+      {"country":["UA"],"salesLine":["MCC"],"supplierBusinessDepartment":["Supply Chain"],"supplierNumber":["99903"]},
+      {"country":["UA"],"salesLine":["MCC"],"supplierBusinessDepartment":["Accounting"],"supplierNumber":["99903"]},
+      {"country":["UA"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["99903"]}
+    ]},
+    {"SCOT_SUPPLIER":[{"country":["UA"],"supplierNumber":["99903"]}]}
+  ],
+  "mlpsuppliera@gmail.com": [
+    {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["RS"],"salesLine":["MCC"],"supplierNumber":["40002"]}]},
+    {"INT_SUPPLIER_ADMIN":[{"appName":["IDS"],"supplierNumber":["991260"]}]},
+    {"NSP_SUPPLIER_ADMIN":[{"country":["RS"],"salesLine":["MCC"],"supplierNumber":["40002"]}]},
+    {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[{"country":["RS"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["40002"]}]}
+  ],
+  "integratedappsupplier1@gmail.com": [
+    {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["HU"],"salesLine":["MCC"],"supplierNumber":["88888"]}]},
+    {"LDS_SUPPLIER":[{"c":["HU"],"lun":["348247"],"sl":["MCC"]}]},
+    {"IPT_SUPPLIER":[{"c":["HU"],"sl":["MCC"],"supplierNumber":["88888"]}]},
+    {"NSP_SUPPLIER_ADMIN":[{"country":["HU"],"salesLine":["MCC"],"supplierNumber":["348247","88888"]}]},
+    {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Quality Assurance"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Purchase"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Supply Chain"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Legal"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Accounting"],"supplierNumber":["88888"]},
+      {"country":["HU"],"salesLine":["MCC"],"supplierBusinessDepartment":["Electronic Data Interchange"],"supplierNumber":["88888"]}
+    ]},
+    {"MIAG_SUPPLIER":[{"country":["HU"],"salesLine":["MCC"],"supplierNumber":["88888"]}]},
+    {"SCOT_SUPPLIER":[{"country":["HU"],"supplierNumber":["88888"]}]}
+  ],
+  "mlpprospectsuppliera@gmail.com": [
+    {"MQUALITY_SUPPLIER":[{"c":["DE"],"supplierNumber":["S73009"]}]},
+    {"PROSPECT_SUPP_ADMIN":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["PGDE_DEV000082"]}]},
+    {"E_SOURCING_SUPPLIER":[{"c":["DE"],"supplierNumber":["SUPP0072235"]}]},
+    {"PROSPECT_SUPPLIER":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["PGDE_DEV000082"]}]},
+    {"OBDM_EXTERNAL":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["00002_0000006634"]}]}
+  ],
+  "integratedsupplierfourth@gmail.com": [
+    {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["NL"],"salesLine":["MCC"],"supplierNumber":["20871"]}]},
+    {"MDW_SUPPLIER":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["10028"]}]},
+    {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[
+      {"country":["NL"],"salesLine":["MCC"],"supplierBusinessDepartment":["Supply Chain"],"supplierNumber":["20871"]},
+      {"country":["NL"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["20871"]},
+      {"country":["NL"],"salesLine":["MCC"],"supplierBusinessDepartment":["Contracts Management"],"supplierNumber":["20871"]}
+    ]},
+    {"NL_SUPPLIER":[]},
+    {"BPMT_SUPPLIER":[{"country":["PL"],"salesLine":["MCC"],"supplierNumber":["10101"]}]},
+    {"NSP_SUPPLIER_ADMIN":[{"country":["NL"],"salesLine":["MCC"],"supplierNumber":["20871"]}]}
+  ],
+  "integratedsupplierthird@gmail.com": [
+    {"MFRCA_SUPPLIER":[{"country":["FR"],"salesLine":["MCC"],"supplierNumber":["13904"]}]},
+    {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["ES"],"salesLine":["MCC"],"supplierNumber":["18173","22963","24616","20812","24363","20373","23311","18139","21672","23959"]}]},
+    {"PIM_SUPPLIER":[{"country":["ES"],"salesLine":["MCC"],"supplierNumber":["10009"]}]},
+    {"NSP_SUPPLIER_ADMIN":[{"country":["ES"],"salesLine":["MCC"],"supplierNumber":["18173","22963","24616","20812","24363","20373","23311","18139","21672","23959"]}]},
+    {"PIM_SUPPLIER_TR":[{"country":["TR"],"salesLine":["MCC"],"supplierNumber":["90892"]}]},
+    {"SCOT_SUPPLIER":[{"country":["ES"],"supplierNumber":["18173","22963","24616","20812","24363","20373","23311","18139","21672","23959"]}]},
+    {"UFCLOUD_SUPPLIER":[{"c":["INT"],"sl":["MCC"],"supplierNumber":["1023351"]}]}
+  ]
+}
