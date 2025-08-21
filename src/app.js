@@ -34,6 +34,38 @@ app.use((req, res, next) => {
     next();
 });
 
+// Response logging middleware
+app.use((req, res, next) => {
+    const originalSend = res.send;
+    const originalJson = res.json;
+    
+    // Override res.send to capture response
+    res.send = function(body) {
+        console.log('=== RESPONSE LOGGING ===');
+        console.log(`${new Date().toISOString()} - Response for ${req.method} ${req.url}`);
+        console.log('Status Code:', res.statusCode);
+        console.log('Response Headers:', res.getHeaders());
+        console.log('Response Body:', typeof body === 'string' ? body : JSON.stringify(body, null, 2));
+        console.log('=== END RESPONSE ===');
+        
+        return originalSend.call(this, body);
+    };
+    
+    // Override res.json to capture JSON responses
+    res.json = function(obj) {
+        console.log('=== JSON RESPONSE LOGGING ===');
+        console.log(`${new Date().toISOString()} - JSON Response for ${req.method} ${req.url}`);
+        console.log('Status Code:', res.statusCode);
+        console.log('Response Headers:', res.getHeaders());
+        console.log('Response Body:', JSON.stringify(obj, null, 2));
+        console.log('=== END JSON RESPONSE ===');
+        
+        return originalJson.call(this, obj);
+    };
+    
+    next();
+});
+
 // Health check endpoint (before authentication)
 app.get('/health', (req, res) => {
     res.status(200).json({

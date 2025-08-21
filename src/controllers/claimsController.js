@@ -98,8 +98,7 @@ class ClaimsController {
                             "@odata.type": "microsoft.graph.tokenIssuanceStart.provideClaimsForToken",
                             "claims": {
                                 "correlationId": correlationId || `claim-${Date.now()}`,
-                                "authorization": userRoles,
-                                "upn": userEmail,
+                                "authorization": JSON.stringify(userRoles),                                "upn": userEmail,
                                 "userType": "SUPP",
                                 "country": this.extractCountryFromRoles(userRoles),
                                 "locale": `en-${this.extractCountryFromRoles(userRoles)}`,
