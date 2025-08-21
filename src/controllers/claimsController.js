@@ -95,7 +95,7 @@ class ClaimsController {
                     "@odata.type": "microsoft.graph.onTokenIssuanceStartResponseData",
                     "actions": [
                         {
-                            "@odata.type": "microsoft.graph.provideClaimsForToken",
+                            "@odata.type": "microsoft.graph.tokenIssuanceStart.provideClaimsForToken",
                             "claims": {
                                 "correlationId": correlationId || `claim-${Date.now()}`,
                                 "authorization": userRoles,
