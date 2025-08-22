@@ -62,5 +62,16 @@
     {"PIM_SUPPLIER_TR":[{"country":["TR"],"salesLine":["MCC"],"supplierNumber":["90892"]}]},
     {"SCOT_SUPPLIER":[{"country":["ES"],"supplierNumber":["18173","22963","24616","20812","24363","20373","23311","18139","21672","23959"]}]},
     {"UFCLOUD_SUPPLIER":[{"c":["INT"],"sl":["MCC"],"supplierNumber":["1023351"]}]}
+  ],
+  "mlpdeveloper1@yopmail.com": [
+    {"MQUALITY_SUPPLIER":[{"c":["DE"],"supplierNumber":["S73009"]}]},
+    {"PROSPECT_SUPP_ADMIN":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["PGDE_DEV000082"]}]},
+    {"E_SOURCING_SUPPLIER":[{"c":["DE"],"supplierNumber":["SUPP0072235"]}]},
+    {"PROSPECT_SUPPLIER":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["PGDE_DEV000082"]}]},
+    {"OBDM_EXTERNAL":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["00002_0000006634"]}]}
   ]
 }
+
+
+
+
