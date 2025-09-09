@@ -70,10 +70,10 @@
     {"PROSPECT_SUPPLIER":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["PGDE_DEV000082"]}]},
     {"OBDM_EXTERNAL":[{"c":["DE"],"sl":["MCC"],"supplierNumber":["00002_0000006634"]}]}
   ],
-  "violetsa@yopmail.com":[
-  {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]}
-  {"NSP_SUPPLIER_ADMIN":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]}
-  {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[{"country":["DE"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]}
+  "violetsa@yopmail.com": [
+  {"NSP_SUPPLIER_BASIS_ROLE":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]},
+  {"NSP_SUPPLIER_ADMIN":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]},
+  {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[{"country":["DE"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]},
   {"MIAG_SUPPLIER":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]}
   ]
 }
