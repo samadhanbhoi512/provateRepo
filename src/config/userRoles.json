@@ -75,7 +75,14 @@
   {"NSP_SUPPLIER_ADMIN":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]},
   {"NSP_SUPPLIER_SL_COUNTRY_DEPT":[{"country":["DE"],"salesLine":["MCC"],"supplierBusinessDepartment":["Admin"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]},
   {"MIAG_SUPPLIER":[{"country":["DE"],"salesLine":["MCC"],"supplierNumber":["72940","96365","76343","88004","27540","81916","97980","89716","41085"]}]}
-  ]
+  ],
+  "lightfinaldownload@yopmail.com": [
+  {"MQUALITY_SUPPLIER":[{"c":["UA"],"supplierNumber":["S73025"]}]},
+  {"PROSPECT_SUPP_ADMIN":[{"c":["UA"],"sl":["MCC"],"supplierNumber":["PCUA_DEV000072"]}]},
+  {"E_SOURCING_SUPPLIER":[{"c":["UA"],"supplierNumber":["SUPP0072322"]}]},
+  {"PROSPECT_SUPPLIER":[{"c":["UA"],"sl":["MCC"],"supplierNumber":["PCUA_DEV000072"]}]},
+  {"OBDM_EXTERNAL":[{"c":["UA"],"sl":["MCC"],"supplierNumber":["00002_0000006723"]}]}
+]  
 }
 
 
